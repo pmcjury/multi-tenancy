@@ -11,5 +11,5 @@ spec:
             - -mesh-provider=kubernetes
             - -metrics-server=http://flagger-prometheus:9090
             - -slack-user=flagger
-            - -slack-channel=
-            - -slack-url=
+            - -slack-channel=flux-flagger
+            - -slack-url=https://hooks.slack.com/services/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
