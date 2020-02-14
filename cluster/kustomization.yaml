@@ -1,4 +1,4 @@
 bases:
   - ./common/
-  - ./team1/
-  - ./flagger/
+  # - ./team1/
+  # - ./flagger/
